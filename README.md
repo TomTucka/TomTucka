@@ -2,7 +2,7 @@
 
 Hi, I'm Tom!
 
-Right now I'm working as a Senior Cloud Infrastructure Engineer at The Ministry of Justice in the UK
+I'm working as a Cloud Infrastructure Engineer at The Ministry of Justice.
 
 ### 📮 Get In Touch!
 - Twitter: https://twitter.com/tomtucka
