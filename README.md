@@ -2,7 +2,9 @@
 
 Hi, I'm Tom!
 
-I'm working as a DevOps Engineer at The Ministry of Justice.
+I'm currently working as a DevOps Engineer for the UK Government. 
+
+Currently organising DevOpsDays Birmingham and I'm also a @hashicorp 2021 ambassador
 
 ### 📮 Get In Touch!
 - Twitter: https://twitter.com/tomtucka
