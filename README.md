@@ -2,7 +2,7 @@
 
 Hi, I'm Tom!
 
-I'm currently working as a DevOps Engineer for the UK Government. 
+I'm currently working as a DevOps Consultant.
 
 Currently organising DevOpsDays Birmingham and I'm also a @hashicorp 2021 ambassador
 
