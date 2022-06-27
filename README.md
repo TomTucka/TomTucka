@@ -4,7 +4,8 @@ Hi, I'm Tom!
 
 I'm currently working as a DevOps Consultant.
 
-Currently organising DevOpsDays Birmingham and I'm also a @hashicorp 2021 ambassador
+
+![HasiCorp Ambassador 2022](https://images.credly.com/size/340x340/images/f5b76188-fc92-4176-b63c-ea36929dd062/image.png)
 
 ### 📮 Get In Touch!
 - Twitter: https://twitter.com/tomtucka
