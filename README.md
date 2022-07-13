@@ -18,7 +18,7 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### ⭐ Recent Stars
 
 
-- **[kradalby/opnsense-go](https://github.com/kradalby/opnsense-go)** - WIP library to cover the OPNsense API in Go (1 week ago)
+- **[kradalby/opnsense-go](https://github.com/kradalby/opnsense-go)** - WIP library to cover the OPNsense API in Go (2 weeks ago)
 - **[hashicorp/dev-portal](https://github.com/hashicorp/dev-portal)** - the future home of developer.hashicorp.com (2 weeks ago)
 - **[sethvargo/ratchet](https://github.com/sethvargo/ratchet)** - A tool for securing CI/CD workflows with version pinning. (2 weeks ago)
 - **[nicholasjackson/consul-release-controller](https://github.com/nicholasjackson/consul-release-controller)** - Canary deployment controller for Consul Service Mesh (3 weeks ago)
@@ -27,4 +27,4 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### 📄 Latest blog posts
 - [Public Salary History](https://tomwithers.dev/posts/public-salary-history/) (9 months ago)
 - [Using k3sup to Bootstrap K3s](https://tomwithers.dev/posts/k3s-bootstrap/) (10 months ago)
-- [Hello World](https://tomwithers.dev/posts/hello-world/) (10 months ago)
+- [Hello World](https://tomwithers.dev/posts/hello-world/) (11 months ago)
