@@ -12,7 +12,7 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### 🚀 Latest releases I've contributed to
 
 
-- [ministryofjustice/opg-data-deputy-reporting @ v0.2.0](https://github.com/ministryofjustice/opg-data-deputy-reporting/releases/tag/v0.2.0) (1 week ago)
+- [ministryofjustice/opg-data-deputy-reporting @ v0.2.0](https://github.com/ministryofjustice/opg-data-deputy-reporting/releases/tag/v0.2.0) (2 weeks ago)
 - [ministryofjustice/opg-sirius-user-management @ v1.0.0](https://github.com/ministryofjustice/opg-sirius-user-management/releases/tag/v1.0.0) (1 year ago)
 
 #### ⭐ Recent Stars
