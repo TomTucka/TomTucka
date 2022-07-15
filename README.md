@@ -18,11 +18,11 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### ⭐ Recent Stars
 
 
+- **[absolute-version/commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version)** - Fork of the excellent standard-version. Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org :trophy: (today)
 - **[kradalby/opnsense-go](https://github.com/kradalby/opnsense-go)** - WIP library to cover the OPNsense API in Go (2 weeks ago)
 - **[hashicorp/dev-portal](https://github.com/hashicorp/dev-portal)** - the future home of developer.hashicorp.com (2 weeks ago)
 - **[sethvargo/ratchet](https://github.com/sethvargo/ratchet)** - A tool for securing CI/CD workflows with version pinning. (2 weeks ago)
 - **[nicholasjackson/consul-release-controller](https://github.com/nicholasjackson/consul-release-controller)** - Canary deployment controller for Consul Service Mesh (3 weeks ago)
-- **[MichaelCade/90DaysOfDevOps](https://github.com/MichaelCade/90DaysOfDevOps)** - This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.  (3 weeks ago)
 
 #### 📄 Latest blog posts
 - [Public Salary History](https://tomwithers.dev/posts/public-salary-history/) (9 months ago)
