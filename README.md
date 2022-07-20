@@ -18,11 +18,11 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### ⭐ Recent Stars
 
 
+- **[techmids/techmids.io](https://github.com/techmids/techmids.io)** (today)
+- **[techmids/conf.techmids.io](https://github.com/techmids/conf.techmids.io)** - TechMids Conference Website (today)
 - **[absolute-version/commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version)** - Fork of the excellent standard-version. Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org :trophy: (5 days ago)
 - **[kradalby/opnsense-go](https://github.com/kradalby/opnsense-go)** - WIP library to cover the OPNsense API in Go (3 weeks ago)
 - **[hashicorp/dev-portal](https://github.com/hashicorp/dev-portal)** - the future home of developer.hashicorp.com (3 weeks ago)
-- **[sethvargo/ratchet](https://github.com/sethvargo/ratchet)** - A tool for securing CI/CD workflows with version pinning. (3 weeks ago)
-- **[nicholasjackson/consul-release-controller](https://github.com/nicholasjackson/consul-release-controller)** - Canary deployment controller for Consul Service Mesh (4 weeks ago)
 
 #### 📄 Latest blog posts
 - [Public Salary History](https://tomwithers.dev/posts/public-salary-history/) (9 months ago)
