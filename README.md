@@ -12,15 +12,15 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### 🚀 Latest releases I've contributed to
 
 
-- [ministryofjustice/opg-data-deputy-reporting @ v0.3.0](https://github.com/ministryofjustice/opg-data-deputy-reporting/releases/tag/v0.3.0) (2 days ago)
+- [ministryofjustice/opg-data-deputy-reporting @ v0.3.0](https://github.com/ministryofjustice/opg-data-deputy-reporting/releases/tag/v0.3.0) (3 days ago)
 - [ministryofjustice/opg-sirius-user-management @ v1.0.0](https://github.com/ministryofjustice/opg-sirius-user-management/releases/tag/v1.0.0) (1 year ago)
 
 #### ⭐ Recent Stars
 
 
-- **[techmids/techmids.io](https://github.com/techmids/techmids.io)** (today)
-- **[techmids/conf.techmids.io](https://github.com/techmids/conf.techmids.io)** - TechMids Conference Website (today)
-- **[absolute-version/commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version)** - Fork of the excellent standard-version. Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org :trophy: (5 days ago)
+- **[techmids/techmids.io](https://github.com/techmids/techmids.io)** (1 day ago)
+- **[techmids/conf.techmids.io](https://github.com/techmids/conf.techmids.io)** - TechMids Conference Website (1 day ago)
+- **[absolute-version/commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version)** - Fork of the excellent standard-version. Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org :trophy: (6 days ago)
 - **[kradalby/opnsense-go](https://github.com/kradalby/opnsense-go)** - WIP library to cover the OPNsense API in Go (3 weeks ago)
 - **[hashicorp/dev-portal](https://github.com/hashicorp/dev-portal)** - the future home of developer.hashicorp.com (3 weeks ago)
 
