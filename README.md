@@ -18,10 +18,10 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### ⭐ Recent Stars
 
 
-- **[techmids/techmids.io](https://github.com/techmids/techmids.io)** (6 days ago)
-- **[techmids/conf.techmids.io](https://github.com/techmids/conf.techmids.io)** - TechMids Conference Website (6 days ago)
+- **[techmids/techmids.io](https://github.com/techmids/techmids.io)** (1 week ago)
+- **[techmids/conf.techmids.io](https://github.com/techmids/conf.techmids.io)** - TechMids Conference Website (1 week ago)
 - **[absolute-version/commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version)** - Fork of the excellent standard-version. Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org :trophy: (1 week ago)
-- **[kradalby/opnsense-go](https://github.com/kradalby/opnsense-go)** - WIP library to cover the OPNsense API in Go (3 weeks ago)
+- **[kradalby/opnsense-go](https://github.com/kradalby/opnsense-go)** - WIP library to cover the OPNsense API in Go (4 weeks ago)
 - **[hashicorp/dev-portal](https://github.com/hashicorp/dev-portal)** - the future home of developer.hashicorp.com (4 weeks ago)
 
 #### 📄 Latest blog posts
