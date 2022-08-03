@@ -17,9 +17,9 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### ⭐ Recent Stars
 
 
-- **[caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish)** - my dotfiles (3 days ago)
-- **[techmids/techmids.io](https://github.com/techmids/techmids.io)** (1 week ago)
-- **[techmids/conf.techmids.io](https://github.com/techmids/conf.techmids.io)** - TechMids Conference Website (1 week ago)
+- **[caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish)** - my dotfiles (4 days ago)
+- **[techmids/techmids.io](https://github.com/techmids/techmids.io)** (2 weeks ago)
+- **[techmids/conf.techmids.io](https://github.com/techmids/conf.techmids.io)** - TechMids Conference Website (2 weeks ago)
 - **[absolute-version/commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version)** - Fork of the excellent standard-version. Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org :trophy: (2 weeks ago)
 - **[kradalby/opnsense-go](https://github.com/kradalby/opnsense-go)** - WIP library to cover the OPNsense API in Go (1 month ago)
 
