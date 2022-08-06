@@ -17,7 +17,7 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### ⭐ Recent Stars
 
 
-- **[caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish)** - my dotfiles (6 days ago)
+- **[caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish)** - my dotfiles (1 week ago)
 - **[techmids/techmids.io](https://github.com/techmids/techmids.io)** (2 weeks ago)
 - **[techmids/conf.techmids.io](https://github.com/techmids/conf.techmids.io)** - TechMids Conference Website (2 weeks ago)
 - **[absolute-version/commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version)** - Fork of the excellent standard-version. Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org :trophy: (3 weeks ago)
