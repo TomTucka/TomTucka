@@ -16,7 +16,7 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### ⭐ Recent Stars
 
 
-- **[EppO/terraform-provider-environment](https://github.com/EppO/terraform-provider-environment)** - The Environment Terraform Provider exposes Shell environment variables as Terraform Datasources. (today)
+- **[EppO/terraform-provider-environment](https://github.com/EppO/terraform-provider-environment)** - The Environment Terraform Provider exposes Shell environment variables as Terraform Datasources. (1 day ago)
 - **[caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish)** - my dotfiles (3 months ago)
 - **[techmids/techmids.io](https://github.com/techmids/techmids.io)** (3 months ago)
 - **[techmids/conf.techmids.io](https://github.com/techmids/conf.techmids.io)** - TechMids Conference Website (3 months ago)
