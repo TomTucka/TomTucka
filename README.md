@@ -16,11 +16,11 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### ⭐ Recent Stars
 
 
-- **[EppO/terraform-provider-environment](https://github.com/EppO/terraform-provider-environment)** - The Environment Terraform Provider exposes Shell environment variables as Terraform Datasources. (1 day ago)
+- **[EppO/terraform-provider-environment](https://github.com/EppO/terraform-provider-environment)** - The Environment Terraform Provider exposes Shell environment variables as Terraform Datasources. (2 days ago)
 - **[caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish)** - my dotfiles (3 months ago)
 - **[techmids/techmids.io](https://github.com/techmids/techmids.io)** (3 months ago)
 - **[techmids/conf.techmids.io](https://github.com/techmids/conf.techmids.io)** - TechMids Conference Website (3 months ago)
-- **[absolute-version/commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version)** - Fork of the excellent standard-version. Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org :trophy: (3 months ago)
+- **[absolute-version/commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version)** - Fork of the excellent standard-version. Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org :trophy: (4 months ago)
 
 #### 📄 Latest blog posts
 - [Public Salary History](https://tomwithers.dev/posts/public-salary-history/) (1 year ago)
