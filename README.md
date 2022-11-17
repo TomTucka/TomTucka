@@ -12,16 +12,16 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### 🚀 Latest releases I've contributed to
 
 
-- [TomTucka/terraform-boundary-oidc-auth0 @ v1.2.0](https://github.com/TomTucka/terraform-boundary-oidc-auth0/releases/tag/v1.2.0) (3 days ago)
+- [TomTucka/terraform-boundary-oidc-auth0 @ v1.2.0](https://github.com/TomTucka/terraform-boundary-oidc-auth0/releases/tag/v1.2.0) (4 days ago)
 
 #### ⭐ Recent Stars
 
 
-- **[github/mona-sans](https://github.com/github/mona-sans)** - Mona Sans, a variable font from GitHub (4 days ago)
-- **[EppO/terraform-provider-environment](https://github.com/EppO/terraform-provider-environment)** - The Environment Terraform Provider exposes Shell environment variables as Terraform Datasources. (6 days ago)
+- **[github/mona-sans](https://github.com/github/mona-sans)** - Mona Sans, a variable font from GitHub (5 days ago)
+- **[EppO/terraform-provider-environment](https://github.com/EppO/terraform-provider-environment)** - The Environment Terraform Provider exposes Shell environment variables as Terraform Datasources. (1 week ago)
 - **[caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish)** - my dotfiles (3 months ago)
-- **[techmids/techmids.io](https://github.com/techmids/techmids.io)** (3 months ago)
-- **[techmids/conf.techmids.io](https://github.com/techmids/conf.techmids.io)** - TechMids Conference Website (3 months ago)
+- **[techmids/techmids.io](https://github.com/techmids/techmids.io)** (4 months ago)
+- **[techmids/conf.techmids.io](https://github.com/techmids/conf.techmids.io)** - TechMids Conference Website (4 months ago)
 
 #### 📄 Latest blog posts
 - [Public Salary History](https://tomwithers.dev/posts/public-salary-history/) (1 year ago)
