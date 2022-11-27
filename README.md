@@ -12,7 +12,7 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### 🚀 Latest releases I've contributed to
 
 
-- [TomTucka/terraform-boundary-oidc-auth0 @ v1.2.0](https://github.com/TomTucka/terraform-boundary-oidc-auth0/releases/tag/v1.2.0) (1 week ago)
+- [TomTucka/terraform-boundary-oidc-auth0 @ v1.2.0](https://github.com/TomTucka/terraform-boundary-oidc-auth0/releases/tag/v1.2.0) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
@@ -20,7 +20,7 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 - **[hashicorp/terraform-provider-boundary](https://github.com/hashicorp/terraform-provider-boundary)** - Manage Boundary&#39;s identity-based access controls for resources provisioned with Terraform. This provider is maintained internally by the HashiCorp Boundary team. (1 week ago)
 - **[github/mona-sans](https://github.com/github/mona-sans)** - Mona Sans, a variable font from GitHub (2 weeks ago)
 - **[EppO/terraform-provider-environment](https://github.com/EppO/terraform-provider-environment)** - The Environment Terraform Provider exposes Shell environment variables as Terraform Datasources. (2 weeks ago)
-- **[caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish)** - my dotfiles (3 months ago)
+- **[caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish)** - my dotfiles (4 months ago)
 - **[techmids/techmids.io](https://github.com/techmids/techmids.io)** (4 months ago)
 
 #### 📄 Latest blog posts
