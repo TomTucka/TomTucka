@@ -17,11 +17,11 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### ⭐ Recent Stars
 
 
+- **[terrastruct/d2](https://github.com/terrastruct/d2)** - D2 is a modern diagram scripting language that turns text to diagrams. (today)
+- **[shaunsingh/SFMono-Nerd-Font-Ligaturized](https://github.com/shaunsingh/SFMono-Nerd-Font-Ligaturized)** - Apple&#39;s SFMono font nerd-font patched and ligaturized  (today)
 - **[hashicorp/terraform-provider-boundary](https://github.com/hashicorp/terraform-provider-boundary)** - Manage Boundary&#39;s identity-based access controls for resources provisioned with Terraform. This provider is maintained internally by the HashiCorp Boundary team. (3 weeks ago)
 - **[github/mona-sans](https://github.com/github/mona-sans)** - Mona Sans, a variable font from GitHub (1 month ago)
 - **[EppO/terraform-provider-environment](https://github.com/EppO/terraform-provider-environment)** - The Environment Terraform Provider exposes Shell environment variables as Terraform Datasources. (1 month ago)
-- **[caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish)** - my dotfiles (4 months ago)
-- **[techmids/techmids.io](https://github.com/techmids/techmids.io)** (4 months ago)
 
 #### 📄 Latest blog posts
 - [Public Salary History](https://tomwithers.dev/posts/public-salary-history/) (1 year ago)
