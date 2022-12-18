@@ -17,8 +17,8 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### ⭐ Recent Stars
 
 
-- **[terrastruct/d2](https://github.com/terrastruct/d2)** - D2 is a modern diagram scripting language that turns text to diagrams. (5 days ago)
-- **[shaunsingh/SFMono-Nerd-Font-Ligaturized](https://github.com/shaunsingh/SFMono-Nerd-Font-Ligaturized)** - Apple&#39;s SFMono font nerd-font patched and ligaturized  (5 days ago)
+- **[terrastruct/d2](https://github.com/terrastruct/d2)** - D2 is a modern diagram scripting language that turns text to diagrams. (6 days ago)
+- **[shaunsingh/SFMono-Nerd-Font-Ligaturized](https://github.com/shaunsingh/SFMono-Nerd-Font-Ligaturized)** - Apple&#39;s SFMono font nerd-font patched and ligaturized  (6 days ago)
 - **[hashicorp/terraform-provider-boundary](https://github.com/hashicorp/terraform-provider-boundary)** - Manage Boundary&#39;s identity-based access controls for resources provisioned with Terraform. This provider is maintained internally by the HashiCorp Boundary team. (1 month ago)
 - **[github/mona-sans](https://github.com/github/mona-sans)** - Mona Sans, a variable font from GitHub (1 month ago)
 - **[EppO/terraform-provider-environment](https://github.com/EppO/terraform-provider-environment)** - The Environment Terraform Provider exposes Shell environment variables as Terraform Datasources. (1 month ago)
