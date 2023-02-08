@@ -21,9 +21,9 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 - **[shaunsingh/SFMono-Nerd-Font-Ligaturized](https://github.com/shaunsingh/SFMono-Nerd-Font-Ligaturized)** - Apple&#39;s SFMono font nerd-font patched and ligaturized  (1 month ago)
 - **[hashicorp/terraform-provider-boundary](https://github.com/hashicorp/terraform-provider-boundary)** - Manage Boundary&#39;s identity-based access controls for resources provisioned with Terraform. This provider is maintained internally by the HashiCorp Boundary team. (2 months ago)
 - **[github/mona-sans](https://github.com/github/mona-sans)** - Mona Sans, a variable font from GitHub (2 months ago)
-- **[EppO/terraform-provider-environment](https://github.com/EppO/terraform-provider-environment)** - The Environment Terraform Provider exposes Shell environment variables as Terraform Datasources. (2 months ago)
+- **[EppO/terraform-provider-environment](https://github.com/EppO/terraform-provider-environment)** - The Environment Terraform Provider exposes Shell environment variables as Terraform Datasources. (3 months ago)
 
 #### 📄 Latest blog posts
 - [Public Salary History](https://tomwithers.dev/posts/public-salary-history/) (1 year ago)
 - [Using k3sup to Bootstrap K3s](https://tomwithers.dev/posts/k3s-bootstrap/) (1 year ago)
-- [Hello World](https://tomwithers.dev/posts/hello-world/) (1 year ago)
+- [Hello World](https://tomwithers.dev/posts/hello-world/) (2 years ago)
