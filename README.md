@@ -17,7 +17,7 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### ⭐ Recent Stars
 
 
-- **[maaslalani/slides](https://github.com/maaslalani/slides)** - Terminal based presentation tool (4 weeks ago)
+- **[maaslalani/slides](https://github.com/maaslalani/slides)** - Terminal based presentation tool (1 month ago)
 - **[terrastruct/d2](https://github.com/terrastruct/d2)** - D2 is a modern diagram scripting language that turns text to diagrams. (3 months ago)
 - **[shaunsingh/SFMono-Nerd-Font-Ligaturized](https://github.com/shaunsingh/SFMono-Nerd-Font-Ligaturized)** - Apple&#39;s SFMono font nerd-font patched and ligaturized  (3 months ago)
 - **[hashicorp/terraform-provider-boundary](https://github.com/hashicorp/terraform-provider-boundary)** - Manage Boundary&#39;s identity-based access controls for resources provisioned with Terraform. This provider is maintained internally by the HashiCorp Boundary team. (4 months ago)
