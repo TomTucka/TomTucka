@@ -18,10 +18,10 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 
 
 - **[maaslalani/slides](https://github.com/maaslalani/slides)** - Terminal based presentation tool (1 month ago)
-- **[terrastruct/d2](https://github.com/terrastruct/d2)** - D2 is a modern diagram scripting language that turns text to diagrams. (3 months ago)
-- **[shaunsingh/SFMono-Nerd-Font-Ligaturized](https://github.com/shaunsingh/SFMono-Nerd-Font-Ligaturized)** - Apple&#39;s SFMono font nerd-font patched and ligaturized  (3 months ago)
+- **[terrastruct/d2](https://github.com/terrastruct/d2)** - D2 is a modern diagram scripting language that turns text to diagrams. (4 months ago)
+- **[shaunsingh/SFMono-Nerd-Font-Ligaturized](https://github.com/shaunsingh/SFMono-Nerd-Font-Ligaturized)** - Apple&#39;s SFMono font nerd-font patched and ligaturized  (4 months ago)
 - **[hashicorp/terraform-provider-boundary](https://github.com/hashicorp/terraform-provider-boundary)** - Manage Boundary&#39;s identity-based access controls for resources provisioned with Terraform. This provider is maintained internally by the HashiCorp Boundary team. (4 months ago)
-- **[github/mona-sans](https://github.com/github/mona-sans)** - Mona Sans, a variable font from GitHub (4 months ago)
+- **[github/mona-sans](https://github.com/github/mona-sans)** - Mona Sans, a variable font from GitHub (5 months ago)
 
 #### 📄 Latest blog posts
 - [Public Salary History](https://tomwithers.dev/posts/public-salary-history/) (2 years ago)
