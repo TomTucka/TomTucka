@@ -4,10 +4,10 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 
 #### 👨‍💻 Repositories I created recently
 - **[TomTucka/rpi-netboot](https://github.com/TomTucka/rpi-netboot)**
-- **[TomTucka/r-io](https://github.com/TomTucka/r-io)**
 - **[TomTucka/gitlab-repo-import-test](https://github.com/TomTucka/gitlab-repo-import-test)**
 - **[TomTucka/terraform-boundary-oidc-azure](https://github.com/TomTucka/terraform-boundary-oidc-azure)**
 - **[TomTucka/terraform-boundary-oidc-okta](https://github.com/TomTucka/terraform-boundary-oidc-okta)**
+- **[TomTucka/terraform-boundary-oidc-auth0](https://github.com/TomTucka/terraform-boundary-oidc-auth0)** - Terraform module to create OIDC connection in Boundary with Auth0
 
 #### 🚀 Latest releases I've contributed to
 
