@@ -12,13 +12,13 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### 🚀 Latest releases I've contributed to
 
 
-- [onedr0p/flux-cluster-template @ v5.5.0](https://github.com/onedr0p/flux-cluster-template/releases/tag/v5.5.0) (1 day ago)
+- [onedr0p/flux-cluster-template @ v5.5.0](https://github.com/onedr0p/flux-cluster-template/releases/tag/v5.5.0) (2 days ago)
 - [TomTucka/terraform-boundary-oidc-auth0 @ v1.2.0](https://github.com/TomTucka/terraform-boundary-oidc-auth0/releases/tag/v1.2.0) (7 months ago)
 
 #### ⭐ Recent Stars
 
 
-- **[onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template)** - A community opinionated template for deploying a single Kubernetes cluster with Ansible backed by Flux, SOPS, GitHub Actions, Renovate, Cilium and more! (6 days ago)
+- **[onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template)** - A community opinionated template for deploying a single Kubernetes cluster with Ansible backed by Flux, SOPS, GitHub Actions, Renovate, Cilium and more! (1 week ago)
 - **[maaslalani/slides](https://github.com/maaslalani/slides)** - Terminal based presentation tool (4 months ago)
 - **[terrastruct/d2](https://github.com/terrastruct/d2)** - D2 is a modern diagram scripting language that turns text to diagrams. (6 months ago)
 - **[shaunsingh/SFMono-Nerd-Font-Ligaturized](https://github.com/shaunsingh/SFMono-Nerd-Font-Ligaturized)** - Apple&#39;s SFMono font nerd-font patched and ligaturized  (6 months ago)
