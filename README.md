@@ -12,7 +12,7 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### 🚀 Latest releases I've contributed to
 
 
-- [onedr0p/flux-cluster-template @ v5.5.0](https://github.com/onedr0p/flux-cluster-template/releases/tag/v5.5.0) (6 days ago)
+- [onedr0p/flux-cluster-template @ v5.5.0](https://github.com/onedr0p/flux-cluster-template/releases/tag/v5.5.0) (1 week ago)
 - [TomTucka/terraform-boundary-oidc-auth0 @ v1.2.0](https://github.com/TomTucka/terraform-boundary-oidc-auth0/releases/tag/v1.2.0) (7 months ago)
 
 #### ⭐ Recent Stars
@@ -20,8 +20,8 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 
 - **[onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template)** - A community opinionated template for deploying a single Kubernetes cluster with Ansible backed by Flux, SOPS, GitHub Actions, Renovate, Cilium and more! (1 week ago)
 - **[maaslalani/slides](https://github.com/maaslalani/slides)** - Terminal based presentation tool (4 months ago)
-- **[terrastruct/d2](https://github.com/terrastruct/d2)** - D2 is a modern diagram scripting language that turns text to diagrams. (6 months ago)
-- **[shaunsingh/SFMono-Nerd-Font-Ligaturized](https://github.com/shaunsingh/SFMono-Nerd-Font-Ligaturized)** - Apple&#39;s SFMono font nerd-font patched and ligaturized  (6 months ago)
+- **[terrastruct/d2](https://github.com/terrastruct/d2)** - D2 is a modern diagram scripting language that turns text to diagrams. (7 months ago)
+- **[shaunsingh/SFMono-Nerd-Font-Ligaturized](https://github.com/shaunsingh/SFMono-Nerd-Font-Ligaturized)** - Apple&#39;s SFMono font nerd-font patched and ligaturized  (7 months ago)
 - **[hashicorp/terraform-provider-boundary](https://github.com/hashicorp/terraform-provider-boundary)** - Manage Boundary&#39;s identity-based access controls for resources provisioned with Terraform. This provider is maintained internally by the HashiCorp Boundary team. (7 months ago)
 
 #### 📄 Latest blog posts
