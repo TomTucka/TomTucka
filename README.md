@@ -12,7 +12,7 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### 🚀 Latest releases I've contributed to
 
 
-- [onedr0p/flux-cluster-template @ 2023.8.0](https://github.com/onedr0p/flux-cluster-template/releases/tag/2023.8.0) (3 weeks ago)
+- [onedr0p/flux-cluster-template @ 2023.8.0](https://github.com/onedr0p/flux-cluster-template/releases/tag/2023.8.0) (4 weeks ago)
 - [TomTucka/terraform-boundary-oidc-auth0 @ v1.2.0](https://github.com/TomTucka/terraform-boundary-oidc-auth0/releases/tag/v1.2.0) (9 months ago)
 
 #### ⭐ Recent Stars
