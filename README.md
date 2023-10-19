@@ -3,11 +3,11 @@
 I'm [Tom](https://tomwithers.dev), I write and operate software for a living and love building communities! 
 
 #### 👨‍💻 Repositories I created recently
+- **[TomTucka/ansible-role-boundary](https://github.com/TomTucka/ansible-role-boundary)** - A role to deploy a production grade HashiCorp Boundary.
 - **[TomTucka/golden-image-pipeline](https://github.com/TomTucka/golden-image-pipeline)** - Showcase of a Golden image pipeline using HCP Packer and Terraform Cloud
 - **[TomTucka/terraform-aws-boundary-worker](https://github.com/TomTucka/terraform-aws-boundary-worker)** - Deploy a Boundary Worker into AWS
 - **[TomTucka/rpi-netboot](https://github.com/TomTucka/rpi-netboot)**
 - **[TomTucka/terraform-boundary-oidc-azure](https://github.com/TomTucka/terraform-boundary-oidc-azure)**
-- **[TomTucka/terraform-boundary-oidc-okta](https://github.com/TomTucka/terraform-boundary-oidc-okta)**
 
 #### 🚀 Latest releases I've contributed to
 
