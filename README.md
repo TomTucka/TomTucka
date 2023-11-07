@@ -12,7 +12,7 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### 🚀 Latest releases I've contributed to
 
 
-- [onedr0p/flux-cluster-template @ 2023.11.0](https://github.com/onedr0p/flux-cluster-template/releases/tag/2023.11.0) (today)
+- [onedr0p/flux-cluster-template @ 2023.11.0](https://github.com/onedr0p/flux-cluster-template/releases/tag/2023.11.0) (1 day ago)
 
 #### ⭐ Recent Stars
 
@@ -21,7 +21,7 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 - **[straubt1/tfx](https://github.com/straubt1/tfx)** - TFx is a standalone CLI for Terraform Cloud and Terraform Enterprise. (2 months ago)
 - **[onedr0p/flux-cluster-template](https://github.com/onedr0p/flux-cluster-template)** - A community opinionated template for deploying a single Kubernetes cluster with Ansible backed by Flux, SOPS, GitHub Actions, Renovate, Cilium and more! (4 months ago)
 - **[maaslalani/slides](https://github.com/maaslalani/slides)** - Terminal based presentation tool (8 months ago)
-- **[terrastruct/d2](https://github.com/terrastruct/d2)** - D2 is a modern diagram scripting language that turns text to diagrams. (10 months ago)
+- **[terrastruct/d2](https://github.com/terrastruct/d2)** - D2 is a modern diagram scripting language that turns text to diagrams. (11 months ago)
 
 #### 📄 Latest blog posts
 - [Public Salary History](https://tomwithers.dev/posts/public-salary-history/) (2 years ago)
