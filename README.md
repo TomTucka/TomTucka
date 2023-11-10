@@ -12,7 +12,7 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### 🚀 Latest releases I've contributed to
 
 
-- [onedr0p/flux-cluster-template @ 2023.11.0](https://github.com/onedr0p/flux-cluster-template/releases/tag/2023.11.0) (3 days ago)
+- [onedr0p/flux-cluster-template @ 2023.11.0](https://github.com/onedr0p/flux-cluster-template/releases/tag/2023.11.0) (4 days ago)
 
 #### ⭐ Recent Stars
 
