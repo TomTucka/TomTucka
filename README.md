@@ -12,7 +12,7 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### 🚀 Latest releases I've contributed to
 
 
-- [onedr0p/cluster-template @ 2024.1.1](https://github.com/onedr0p/cluster-template/releases/tag/2024.1.1) (5 days ago)
+- [onedr0p/cluster-template @ 2024.1.1](https://github.com/onedr0p/cluster-template/releases/tag/2024.1.1) (6 days ago)
 
 #### ⭐ Recent Stars
 
