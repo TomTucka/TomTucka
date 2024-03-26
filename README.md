@@ -3,11 +3,11 @@
 I'm [Tom](https://tomwithers.dev), I write and operate software for a living and love building communities! 
 
 #### 👨‍💻 Repositories I created recently
+- **[TomTucka/dotfiles.nix](https://github.com/TomTucka/dotfiles.nix)** - NixOs dotfiles. Experiment repo before committing to the move
 - **[TomTucka/nomad-ansible](https://github.com/TomTucka/nomad-ansible)** - Bootstrap a self-hosted Nomad cluster.
 - **[TomTucka/boundary-packer-images](https://github.com/TomTucka/boundary-packer-images)** - Production Grade Boundary Packer Images
 - **[TomTucka/ansible-role-boundary](https://github.com/TomTucka/ansible-role-boundary)** - A role to deploy a production grade HashiCorp Boundary.
 - **[TomTucka/golden-image-pipeline](https://github.com/TomTucka/golden-image-pipeline)** - Showcase of a Golden image pipeline using HCP Packer and Terraform Cloud
-- **[TomTucka/terraform-aws-boundary-worker](https://github.com/TomTucka/terraform-aws-boundary-worker)** - Deploy a Boundary Worker into AWS
 
 #### 🚀 Latest releases I've contributed to
 
@@ -18,7 +18,7 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### ⭐ Recent Stars
 
 
-- **[k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)** - Giving Kubernetes Superpowers to everyone (2 days ago)
+- **[k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)** - Giving Kubernetes Superpowers to everyone (3 days ago)
 - **[devops-rob/vault-plugin-boundary-secrets-engine](https://github.com/devops-rob/vault-plugin-boundary-secrets-engine)** - A Vault secrets engine that generates dynamic Boundary accounts (6 months ago)
 - **[straubt1/tfx](https://github.com/straubt1/tfx)** - TFx is a standalone CLI for Terraform Cloud and Terraform Enterprise. (7 months ago)
 - **[onedr0p/cluster-template](https://github.com/onedr0p/cluster-template)** - A template for deploying a Kubernetes cluster with k3s or Talos (9 months ago)
