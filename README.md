@@ -12,14 +12,14 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### 🚀 Latest releases I've contributed to
 
 
-- [onedr0p/cluster-template @ 2024.3.0](https://github.com/onedr0p/cluster-template/releases/tag/2024.3.0) (4 weeks ago)
+- [onedr0p/cluster-template @ 2024.3.0](https://github.com/onedr0p/cluster-template/releases/tag/2024.3.0) (1 month ago)
 - [TomTucka/terraform-workspace-manager @ v0.3.1](https://github.com/TomTucka/terraform-workspace-manager/releases/tag/v0.3.1) (3 years ago)
 
 #### ⭐ Recent Stars
 
 
-- **[mitchellh/nixos-config](https://github.com/mitchellh/nixos-config)** - My NixOS configurations. (4 days ago)
-- **[caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)** - dotfiles (home-manager), nixOS, and nix-darwin configurations (4 days ago)
+- **[mitchellh/nixos-config](https://github.com/mitchellh/nixos-config)** - My NixOS configurations. (5 days ago)
+- **[caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)** - dotfiles (home-manager), nixOS, and nix-darwin configurations (5 days ago)
 - **[k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)** - Giving Kubernetes Superpowers to everyone (1 week ago)
 - **[devops-rob/vault-plugin-boundary-secrets-engine](https://github.com/devops-rob/vault-plugin-boundary-secrets-engine)** - A Vault secrets engine that generates dynamic Boundary accounts (6 months ago)
 - **[straubt1/tfx](https://github.com/straubt1/tfx)** - TFx is a standalone CLI for Terraform Cloud and Terraform Enterprise. (7 months ago)
