@@ -3,11 +3,11 @@
 I'm [Tom](https://tomwithers.dev), I write and operate software for a living and love building communities! 
 
 #### 👨‍💻 Repositories I created recently
+- **[TomTucka/homelab](https://github.com/TomTucka/homelab)** - Home Operations driven by Kubernetes and GitOps using Flux
 - **[TomTucka/helm-charts](https://github.com/TomTucka/helm-charts)** - A collection of Helm charts
 - **[TomTucka/lab](https://github.com/TomTucka/lab)**
 - **[TomTucka/dotfiles.nix](https://github.com/TomTucka/dotfiles.nix)** - NixOs dotfiles. Experiment repo before committing to the move
 - **[TomTucka/nomad-ansible](https://github.com/TomTucka/nomad-ansible)** - Bootstrap a self-hosted Nomad cluster.
-- **[TomTucka/boundary-packer-images](https://github.com/TomTucka/boundary-packer-images)** - Production Grade Boundary Packer Images
 
 #### 🚀 Latest releases I've contributed to
 
