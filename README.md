@@ -12,15 +12,15 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### 🚀 Latest releases I've contributed to
 
 
-- [onedr0p/cluster-template @ 2024.4.0](https://github.com/onedr0p/cluster-template/releases/tag/2024.4.0) (today)
+- [onedr0p/cluster-template @ 2024.4.0](https://github.com/onedr0p/cluster-template/releases/tag/2024.4.0) (1 day ago)
 - [TomTucka/terraform-workspace-manager @ v0.3.1](https://github.com/TomTucka/terraform-workspace-manager/releases/tag/v0.3.1) (3 years ago)
 
 #### ⭐ Recent Stars
 
 
-- **[louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)** - A fancy self-hosted monitoring tool (1 day ago)
-- **[mitchellh/nixos-config](https://github.com/mitchellh/nixos-config)** - My NixOS configurations. (6 days ago)
-- **[caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)** - dotfiles (home-manager), nixOS, and nix-darwin configurations (6 days ago)
+- **[louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)** - A fancy self-hosted monitoring tool (2 days ago)
+- **[mitchellh/nixos-config](https://github.com/mitchellh/nixos-config)** - My NixOS configurations. (1 week ago)
+- **[caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)** - dotfiles (home-manager), nixOS, and nix-darwin configurations (1 week ago)
 - **[k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)** - Giving Kubernetes Superpowers to everyone (1 week ago)
 - **[devops-rob/vault-plugin-boundary-secrets-engine](https://github.com/devops-rob/vault-plugin-boundary-secrets-engine)** - A Vault secrets engine that generates dynamic Boundary accounts (6 months ago)
 
