@@ -18,7 +18,7 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### ⭐ Recent Stars
 
 
-- **[louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)** - A fancy self-hosted monitoring tool (2 weeks ago)
+- **[louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)** - A fancy self-hosted monitoring tool (3 weeks ago)
 - **[mitchellh/nixos-config](https://github.com/mitchellh/nixos-config)** - My NixOS configurations. (3 weeks ago)
 - **[caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)** - dotfiles (home-manager), nixOS, and nix-darwin configurations (3 weeks ago)
 - **[k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)** - Giving Kubernetes Superpowers to everyone (4 weeks ago)
