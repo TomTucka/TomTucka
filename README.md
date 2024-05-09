@@ -22,7 +22,7 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 - **[mitchellh/nixos-config](https://github.com/mitchellh/nixos-config)** - My NixOS configurations. (1 month ago)
 - **[caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)** - dotfiles (home-manager), nixOS, and nix-darwin configurations (1 month ago)
 - **[k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)** - Giving Kubernetes Superpowers to everyone (1 month ago)
-- **[devops-rob/vault-plugin-boundary-secrets-engine](https://github.com/devops-rob/vault-plugin-boundary-secrets-engine)** - A Vault secrets engine that generates dynamic Boundary accounts (7 months ago)
+- **[devops-rob/vault-plugin-boundary-secrets-engine](https://github.com/devops-rob/vault-plugin-boundary-secrets-engine)** - A Vault secrets engine that generates dynamic Boundary accounts (8 months ago)
 
 #### 📄 Latest blog posts
 - [Public Salary History](https://tomwithers.dev/posts/public-salary-history/) (2 years ago)
