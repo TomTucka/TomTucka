@@ -3,11 +3,11 @@
 I'm [Tom](https://tomwithers.dev), I write and operate software for a living and love building communities! 
 
 #### 👨‍💻 Repositories I created recently
+- **[TomTucka/dotfiles](https://github.com/TomTucka/dotfiles)** - Personal dotfiles. Built using  GNU Stow
 - **[TomTucka/homelab](https://github.com/TomTucka/homelab)**
 - **[TomTucka/helm-charts](https://github.com/TomTucka/helm-charts)** - A collection of Helm charts
 - **[TomTucka/dotfiles.nix](https://github.com/TomTucka/dotfiles.nix)** - NixOs dotfiles. Experiment repo before committing to the move
 - **[TomTucka/nomad-ansible](https://github.com/TomTucka/nomad-ansible)** - Bootstrap a self-hosted Nomad cluster.
-- **[TomTucka/boundary-packer-images](https://github.com/TomTucka/boundary-packer-images)** - Production Grade Boundary Packer Images
 
 #### 🚀 Latest releases I've contributed to
 
@@ -18,11 +18,11 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### ⭐ Recent Stars
 
 
+- **[mitchellh/ghostty](https://github.com/mitchellh/ghostty)** - 👻 (today)
 - **[louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)** - A fancy self-hosted monitoring tool (1 month ago)
 - **[mitchellh/nixos-config](https://github.com/mitchellh/nixos-config)** - My NixOS configurations. (2 months ago)
 - **[caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)** - ❄️ home-manager, nixOS, and nix-darwin configurations (2 months ago)
 - **[k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)** - Giving Kubernetes Superpowers to everyone (2 months ago)
-- **[devops-rob/vault-plugin-boundary-secrets-engine](https://github.com/devops-rob/vault-plugin-boundary-secrets-engine)** - A Vault secrets engine that generates dynamic Boundary accounts (8 months ago)
 
 #### 📄 Latest blog posts
 - [Public Salary History](https://tomwithers.dev/posts/public-salary-history/) (2 years ago)
