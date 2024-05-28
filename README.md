@@ -18,7 +18,7 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### ⭐ Recent Stars
 
 
-- **[mitchellh/ghostty](https://github.com/mitchellh/ghostty)** - 👻 (today)
+- **[mitchellh/ghostty](https://github.com/mitchellh/ghostty)** - 👻 (1 day ago)
 - **[louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)** - A fancy self-hosted monitoring tool (1 month ago)
 - **[mitchellh/nixos-config](https://github.com/mitchellh/nixos-config)** - My NixOS configurations. (2 months ago)
 - **[caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)** - ❄️ home-manager, nixOS, and nix-darwin configurations (2 months ago)
