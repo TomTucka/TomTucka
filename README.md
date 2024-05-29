@@ -12,13 +12,13 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### 🚀 Latest releases I've contributed to
 
 
-- [onedr0p/cluster-template @ 2024.5.0](https://github.com/onedr0p/cluster-template/releases/tag/2024.5.0) (3 weeks ago)
+- [onedr0p/cluster-template @ 2024.5.0](https://github.com/onedr0p/cluster-template/releases/tag/2024.5.0) (4 weeks ago)
 - [TomTucka/terraform-workspace-manager @ v0.3.1](https://github.com/TomTucka/terraform-workspace-manager/releases/tag/v0.3.1) (3 years ago)
 
 #### ⭐ Recent Stars
 
 
-- **[mitchellh/ghostty](https://github.com/mitchellh/ghostty)** - 👻 (1 day ago)
+- **[mitchellh/ghostty](https://github.com/mitchellh/ghostty)** - 👻 (2 days ago)
 - **[louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)** - A fancy self-hosted monitoring tool (1 month ago)
 - **[mitchellh/nixos-config](https://github.com/mitchellh/nixos-config)** - My NixOS configurations. (2 months ago)
 - **[caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)** - ❄️ home-manager, nixOS, and nix-darwin configurations (2 months ago)
