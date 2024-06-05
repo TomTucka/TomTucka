@@ -12,7 +12,7 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### 🚀 Latest releases I've contributed to
 
 
-- [onedr0p/cluster-template @ 2024.6.0](https://github.com/onedr0p/cluster-template/releases/tag/2024.6.0) (3 days ago)
+- [onedr0p/cluster-template @ 2024.6.0](https://github.com/onedr0p/cluster-template/releases/tag/2024.6.0) (4 days ago)
 - [TomTucka/terraform-workspace-manager @ v0.3.1](https://github.com/TomTucka/terraform-workspace-manager/releases/tag/v0.3.1) (3 years ago)
 
 #### ⭐ Recent Stars
