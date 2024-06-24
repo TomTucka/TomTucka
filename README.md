@@ -18,11 +18,11 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### ⭐ Recent Stars
 
 
-- **[gerrito333/mousehunter-edge](https://github.com/gerrito333/mousehunter-edge)** - Cat with prey detection on Raspberry Pi. Lock cat pet flap if prey is detected. Object detection implemented in TFLite with ImageNet v1 SSD. Inference on EdgeTPU (Google Coral USB). Stores images on AWS S3 and sends notifications to iOS device. (today)
-- **[ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)** - 👻 (3 weeks ago)
+- **[gerrito333/mousehunter-edge](https://github.com/gerrito333/mousehunter-edge)** - Cat with prey detection on Raspberry Pi. Lock cat pet flap if prey is detected. Object detection implemented in TFLite with ImageNet v1 SSD. Inference on EdgeTPU (Google Coral USB). Stores images on AWS S3 and sends notifications to iOS device. (1 day ago)
+- **[ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)** - 👻 (4 weeks ago)
 - **[louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)** - A fancy self-hosted monitoring tool (2 months ago)
-- **[mitchellh/nixos-config](https://github.com/mitchellh/nixos-config)** - My NixOS configurations. (2 months ago)
-- **[caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)** - ❄️ home-manager, nixOS, and nix-darwin configurations (2 months ago)
+- **[mitchellh/nixos-config](https://github.com/mitchellh/nixos-config)** - My NixOS configurations. (3 months ago)
+- **[caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)** - ❄️ home-manager, nixOS, and nix-darwin configurations (3 months ago)
 
 #### 📄 Latest blog posts
 - [Public Salary History](https://tomwithers.dev/posts/public-salary-history/) (2 years ago)
