@@ -12,13 +12,12 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### 🚀 Latest releases I've contributed to
 
 
-- [onedr0p/cluster-template @ 2024.6.0](https://github.com/onedr0p/cluster-template/releases/tag/2024.6.0) (4 weeks ago)
 - [TomTucka/terraform-workspace-manager @ v0.3.1](https://github.com/TomTucka/terraform-workspace-manager/releases/tag/v0.3.1) (3 years ago)
 
 #### ⭐ Recent Stars
 
 
-- **[gerrito333/mousehunter-edge](https://github.com/gerrito333/mousehunter-edge)** - Cat with prey detection on Raspberry Pi. Lock cat pet flap if prey is detected. Object detection implemented in TFLite with ImageNet v1 SSD. Inference on EdgeTPU (Google Coral USB). Stores images on AWS S3 and sends notifications to iOS device. (6 days ago)
+- **[gerrito333/mousehunter-edge](https://github.com/gerrito333/mousehunter-edge)** - Cat with prey detection on Raspberry Pi. Lock cat pet flap if prey is detected. Object detection implemented in TFLite with ImageNet v1 SSD. Inference on EdgeTPU (Google Coral USB). Stores images on AWS S3 and sends notifications to iOS device. (1 week ago)
 - **[ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)** - 👻 (1 month ago)
 - **[louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)** - A fancy self-hosted monitoring tool (3 months ago)
 - **[mitchellh/nixos-config](https://github.com/mitchellh/nixos-config)** - My NixOS configurations. (3 months ago)
