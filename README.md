@@ -26,4 +26,4 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### 📄 Latest blog posts
 - [Public Salary History](https://tomwithers.dev/posts/public-salary-history/) (2 years ago)
 - [Using k3sup to Bootstrap K3s](https://tomwithers.dev/posts/k3s-bootstrap/) (2 years ago)
-- [Hello World](https://tomwithers.dev/posts/hello-world/) (2 years ago)
+- [Hello World](https://tomwithers.dev/posts/hello-world/) (3 years ago)
