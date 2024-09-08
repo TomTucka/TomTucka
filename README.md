@@ -12,7 +12,7 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### 🚀 Latest releases I've contributed to
 
 
-- [TomTucka/terraform-workspace-manager @ v0.3.1](https://github.com/TomTucka/terraform-workspace-manager/releases/tag/v0.3.1) (3 years ago)
+- [TomTucka/terraform-workspace-manager @ v0.3.1](https://github.com/TomTucka/terraform-workspace-manager/releases/tag/v0.3.1) (4 years ago)
 
 #### ⭐ Recent Stars
 
