@@ -17,11 +17,11 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### ⭐ Recent Stars
 
 
+- **[Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)** - #1 Locally hosted web application that allows you to perform various operations on PDF files (1 day ago)
+- **[rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)** - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. (1 day ago)
 - **[gerrito333/mousehunter-edge](https://github.com/gerrito333/mousehunter-edge)** - Cat with prey detection on Raspberry Pi. Lock cat pet flap if prey is detected. Object detection implemented in TFLite with ImageNet v1 SSD. Inference on EdgeTPU (Google Coral USB). Stores images on AWS S3 and sends notifications to iOS device. (2 months ago)
 - **[ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)** - 👻 (3 months ago)
 - **[louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)** - A fancy self-hosted monitoring tool (5 months ago)
-- **[mitchellh/nixos-config](https://github.com/mitchellh/nixos-config)** - My NixOS configurations. (5 months ago)
-- **[caarlos0/dotfiles](https://github.com/caarlos0/dotfiles)** - ❄️ my configurations for home-manager, nixOS, and nix-darwin (5 months ago)
 
 #### 📄 Latest blog posts
 - [Public Salary History](https://tomwithers.dev/posts/public-salary-history/) (2 years ago)
