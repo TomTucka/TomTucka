@@ -17,8 +17,8 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### ⭐ Recent Stars
 
 
-- **[dell/dellemc-openmanage-ansible-modules](https://github.com/dell/dellemc-openmanage-ansible-modules)** - Dell OpenManage Ansible Modules (2 days ago)
-- **[sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox)** - A continuation of HomeBox the inventory and organization system built for the Home User (6 days ago)
+- **[dell/dellemc-openmanage-ansible-modules](https://github.com/dell/dellemc-openmanage-ansible-modules)** - Dell OpenManage Ansible Modules (3 days ago)
+- **[sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox)** - A continuation of HomeBox the inventory and organization system built for the Home User (1 week ago)
 - **[Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)** - #1 Locally hosted web application that allows you to perform various operations on PDF files (1 week ago)
 - **[rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)** - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. (1 week ago)
 - **[gerrito333/mousehunter-edge](https://github.com/gerrito333/mousehunter-edge)** - Cat with prey detection on Raspberry Pi. Lock cat pet flap if prey is detected. Object detection implemented in TFLite with ImageNet v1 SSD. Inference on EdgeTPU (Google Coral USB). Stores images on AWS S3 and sends notifications to iOS device. (2 months ago)
