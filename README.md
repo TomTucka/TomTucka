@@ -21,7 +21,7 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 - **[sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox)** - A continuation of HomeBox the inventory and organization system built for the Home User (1 month ago)
 - **[Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)** - #1 Locally hosted web application that allows you to perform various operations on PDF files (1 month ago)
 - **[rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)** - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. (1 month ago)
-- **[gerrito333/mousehunter-edge](https://github.com/gerrito333/mousehunter-edge)** - Cat with prey detection on Raspberry Pi. Lock cat pet flap if prey is detected. Object detection implemented in TFLite with ImageNet v1 SSD. Inference on EdgeTPU (Google Coral USB). Stores images on AWS S3 and sends notifications to iOS device. (3 months ago)
+- **[gerrito333/mousehunter-edge](https://github.com/gerrito333/mousehunter-edge)** - Cat with prey detection on Raspberry Pi. Lock cat pet flap if prey is detected. Object detection implemented in TFLite with ImageNet v1 SSD. Inference on EdgeTPU (Google Coral USB). Stores images on AWS S3 and sends notifications to iOS device. (4 months ago)
 
 #### 📄 Latest blog posts
 - [Public Salary History](https://tomwithers.dev/posts/public-salary-history/) (3 years ago)
