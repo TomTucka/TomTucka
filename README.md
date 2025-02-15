@@ -17,11 +17,11 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### ⭐ Recent Stars
 
 
+- **[nickpourazima/rotary-phone-audio-guestbook](https://github.com/nickpourazima/rotary-phone-audio-guestbook)** - Audio guestbook using an old rotary phone and a raspberry pi zero (today)
+- **[playfultechnology/audio-guestbook](https://github.com/playfultechnology/audio-guestbook)** - The &#34;audio guestbook&#34; is a converted telephone handset that guests can use to leave recorded messages at weddings and parties (today)
 - **[arouene/vim-ansible-vault](https://github.com/arouene/vim-ansible-vault)** - Vault and Unvault inline values of Yaml files (2 months ago)
 - **[dell/dellemc-openmanage-ansible-modules](https://github.com/dell/dellemc-openmanage-ansible-modules)** - Dell OpenManage Ansible Modules (5 months ago)
 - **[sysadminsmedia/homebox](https://github.com/sysadminsmedia/homebox)** - A continuation of HomeBox the inventory and organization system built for the Home User (5 months ago)
-- **[Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF)** - #1 Locally hosted web application that allows you to perform various operations on PDF files (5 months ago)
-- **[rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)** - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. (5 months ago)
 
 #### 📄 Latest blog posts
 - [Public Salary History](https://tomwithers.dev/posts/public-salary-history/) (3 years ago)
