@@ -3,7 +3,7 @@
 I'm [Tom](https://tomwithers.dev), I write and operate software for a living and love building communities! 
 
 #### 👨‍💻 Repositories I created recently
-- **[TomTucka/homelab](https://github.com/TomTucka/homelab)** - HomeOps
+- **[TomTucka/homelab](https://github.com/TomTucka/homelab)** - Home Operations
 - **[TomTucka/dotfiles](https://github.com/TomTucka/dotfiles)** - Personal dotfiles. Built using  GNU Stow
 - **[TomTucka/helm-charts](https://github.com/TomTucka/helm-charts)** - A collection of Helm charts
 - **[TomTucka/dotfiles.nix](https://github.com/TomTucka/dotfiles.nix)** - NixOs dotfiles. Experiment repo before committing to the move
