@@ -16,11 +16,11 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### ⭐ Recent Stars
 
 
-- **[rook/rook](https://github.com/rook/rook)** - Storage Orchestration for Kubernetes (2 months ago)
-- **[AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc)** - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc. (2 months ago)
+- **[deptofdefense/AndroidTacticalAssaultKit-CIV](https://github.com/deptofdefense/AndroidTacticalAssaultKit-CIV)** (1 day ago)
+- **[rook/rook](https://github.com/rook/rook)** - Storage Orchestration for Kubernetes (3 months ago)
+- **[AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc)** - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc. (3 months ago)
 - **[nickpourazima/rotary-phone-audio-guestbook](https://github.com/nickpourazima/rotary-phone-audio-guestbook)** - Audio guestbook using an old rotary phone and a raspberry pi zero (3 months ago)
 - **[playfultechnology/audio-guestbook](https://github.com/playfultechnology/audio-guestbook)** - The &#34;audio guestbook&#34; is a converted telephone handset that guests can use to leave recorded messages at weddings and parties (3 months ago)
-- **[arouene/vim-ansible-vault](https://github.com/arouene/vim-ansible-vault)** - Vault and Unvault inline values of Yaml files (6 months ago)
 
 #### 📄 Latest blog posts
 - [Public Salary History](https://tomwithers.dev/posts/public-salary-history/) (3 years ago)
