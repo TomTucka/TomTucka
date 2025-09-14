@@ -23,6 +23,6 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 - **[nickpourazima/rotary-phone-audio-guestbook](https://github.com/nickpourazima/rotary-phone-audio-guestbook)** - Audio guestbook using an old rotary phone and a raspberry pi zero (7 months ago)
 
 #### 📄 Latest blog posts
-- [Public Salary History](https://tomwithers.dev/posts/public-salary-history/) (3 years ago)
+- [Public Salary History](https://tomwithers.dev/posts/public-salary-history/) (4 years ago)
 - [Using k3sup to Bootstrap K3s](https://tomwithers.dev/posts/k3s-bootstrap/) (4 years ago)
 - [Hello World](https://tomwithers.dev/posts/hello-world/) (4 years ago)
