@@ -16,11 +16,11 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### ⭐ Recent Stars
 
 
+- **[spegel-org/spegel](https://github.com/spegel-org/spegel)** - Stateless cluster local OCI registry mirror. (today)
+- **[lukeswitz/AntiHunter](https://github.com/lukeswitz/AntiHunter)** - Distributed Signal Intelligence Platform (today)
+- **[netbirdio/netbird](https://github.com/netbirdio/netbird)** - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (today)
 - **[ByteNess/aws-vault](https://github.com/ByteNess/aws-vault)** - A vault for securely storing and accessing AWS credentials in development environments (1 week ago)
 - **[ministryofjustice/opg-digideps](https://github.com/ministryofjustice/opg-digideps)** - Digideps: Managed by opg-org-infra &amp; Terraform (2 weeks ago)
-- **[megaconfidence/webtop](https://github.com/megaconfidence/webtop)** - Run a full Linux desktop on the web (2 months ago)
-- **[deptofdefense/AndroidTacticalAssaultKit-CIV](https://github.com/deptofdefense/AndroidTacticalAssaultKit-CIV)** (4 months ago)
-- **[rook/rook](https://github.com/rook/rook)** - Storage Orchestration for Kubernetes (7 months ago)
 
 #### 📄 Latest blog posts
 - [Public Salary History](https://tomwithers.dev/posts/public-salary-history/) (4 years ago)
