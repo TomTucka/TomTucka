@@ -16,9 +16,9 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### ⭐ Recent Stars
 
 
-- **[spegel-org/spegel](https://github.com/spegel-org/spegel)** - Stateless cluster local OCI registry mirror. (today)
-- **[lukeswitz/AntiHunter](https://github.com/lukeswitz/AntiHunter)** - Distributed Signal Intelligence Platform (today)
-- **[netbirdio/netbird](https://github.com/netbirdio/netbird)** - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (today)
+- **[spegel-org/spegel](https://github.com/spegel-org/spegel)** - Stateless cluster local OCI registry mirror. (1 day ago)
+- **[lukeswitz/AntiHunter](https://github.com/lukeswitz/AntiHunter)** - Distributed Signal Intelligence Platform (1 day ago)
+- **[netbirdio/netbird](https://github.com/netbirdio/netbird)** - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (1 day ago)
 - **[ByteNess/aws-vault](https://github.com/ByteNess/aws-vault)** - A vault for securely storing and accessing AWS credentials in development environments (1 week ago)
 - **[ministryofjustice/opg-digideps](https://github.com/ministryofjustice/opg-digideps)** - Digideps: Managed by opg-org-infra &amp; Terraform (2 weeks ago)
 
