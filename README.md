@@ -16,11 +16,11 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### ⭐ Recent Stars
 
 
-- **[spegel-org/spegel](https://github.com/spegel-org/spegel)** - Stateless cluster local OCI registry mirror. (1 day ago)
-- **[lukeswitz/AntiHunter](https://github.com/lukeswitz/AntiHunter)** - Distributed Signal Intelligence Platform (1 day ago)
-- **[netbirdio/netbird](https://github.com/netbirdio/netbird)** - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (1 day ago)
-- **[ByteNess/aws-vault](https://github.com/ByteNess/aws-vault)** - A vault for securely storing and accessing AWS credentials in development environments (1 week ago)
-- **[ministryofjustice/opg-digideps](https://github.com/ministryofjustice/opg-digideps)** - Digideps: Managed by opg-org-infra &amp; Terraform (2 weeks ago)
+- **[Cloud-RF/tak-server](https://github.com/Cloud-RF/tak-server)** - TAK Server docker setup (1 day ago)
+- **[orhun/git-cliff](https://github.com/orhun/git-cliff)** - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (1 day ago)
+- **[gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)** - Find secrets with Gitleaks 🔑 (1 day ago)
+- **[Root-Down-Digital/pentesting-resources](https://github.com/Root-Down-Digital/pentesting-resources)** - Pentest/Red Team: Resources, repos and scripts. (1 day ago)
+- **[spegel-org/spegel](https://github.com/spegel-org/spegel)** - Stateless cluster local OCI registry mirror. (2 days ago)
 
 #### 📄 Latest blog posts
 - [Public Salary History](https://tomwithers.dev/posts/public-salary-history/) (4 years ago)
