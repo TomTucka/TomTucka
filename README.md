@@ -16,11 +16,11 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### ⭐ Recent Stars
 
 
-- **[Cloud-RF/tak-server](https://github.com/Cloud-RF/tak-server)** - TAK Server docker setup (1 day ago)
-- **[orhun/git-cliff](https://github.com/orhun/git-cliff)** - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (1 day ago)
-- **[gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)** - Find secrets with Gitleaks 🔑 (1 day ago)
-- **[Root-Down-Digital/pentesting-resources](https://github.com/Root-Down-Digital/pentesting-resources)** - Pentest/Red Team: Resources, repos and scripts. (1 day ago)
-- **[spegel-org/spegel](https://github.com/spegel-org/spegel)** - Stateless cluster local OCI registry mirror. (2 days ago)
+- **[Cloud-RF/tak-server](https://github.com/Cloud-RF/tak-server)** - TAK Server docker setup (2 days ago)
+- **[orhun/git-cliff](https://github.com/orhun/git-cliff)** - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (2 days ago)
+- **[gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)** - Find secrets with Gitleaks 🔑 (2 days ago)
+- **[Root-Down-Digital/pentesting-resources](https://github.com/Root-Down-Digital/pentesting-resources)** - Pentest/Red Team: Resources, repos and scripts. (2 days ago)
+- **[spegel-org/spegel](https://github.com/spegel-org/spegel)** - Stateless cluster local OCI registry mirror. (3 days ago)
 
 #### 📄 Latest blog posts
 - [Public Salary History](https://tomwithers.dev/posts/public-salary-history/) (4 years ago)
