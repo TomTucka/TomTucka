@@ -16,11 +16,11 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### ⭐ Recent Stars
 
 
+- **[ViRb3/wgcf](https://github.com/ViRb3/wgcf)** - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp (today)
 - **[Cloud-RF/tak-server](https://github.com/Cloud-RF/tak-server)** - TAK Server docker setup (5 days ago)
 - **[orhun/git-cliff](https://github.com/orhun/git-cliff)** - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (5 days ago)
 - **[gitleaks/gitleaks](https://github.com/gitleaks/gitleaks)** - Find secrets with Gitleaks 🔑 (5 days ago)
 - **[Root-Down-Digital/pentesting-resources](https://github.com/Root-Down-Digital/pentesting-resources)** - Pentest/Red Team: Resources, repos and scripts. (5 days ago)
-- **[spegel-org/spegel](https://github.com/spegel-org/spegel)** - Stateless cluster local OCI registry mirror. (6 days ago)
 
 #### 📄 Latest blog posts
 - [Public Salary History](https://tomwithers.dev/posts/public-salary-history/) (4 years ago)
