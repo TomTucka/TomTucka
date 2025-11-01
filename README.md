@@ -16,11 +16,11 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### ⭐ Recent Stars
 
 
-- **[poscat0x04/wgcf-teams](https://github.com/poscat0x04/wgcf-teams)** (4 days ago)
-- **[meiji163/gh-notify](https://github.com/meiji163/gh-notify)** - GitHub CLI extension to display GitHub notifications (2 weeks ago)
-- **[terraform-routeros/terraform-provider-routeros](https://github.com/terraform-routeros/terraform-provider-routeros)** - Terraform Provider for Mikrotik RouterOS (2 weeks ago)
-- **[posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV)** - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application (2 weeks ago)
-- **[ViRb3/wgcf](https://github.com/ViRb3/wgcf)** - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp (2 weeks ago)
+- **[Integration-IT/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet)** - A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. (today)
+- **[square/certstrap](https://github.com/square/certstrap)** - Tools to bootstrap CAs, certificate requests, and signed certificates. (today)
+- **[FreeTAKTeam/openTAKpickList](https://github.com/FreeTAKTeam/openTAKpickList)** - a list of hardware and software to be used in conjunction with ATAK platform (today)
+- **[AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes)** - A Kubernetes Query Language (today)
+- **[martin-helmich/kubernetes-crd-example](https://github.com/martin-helmich/kubernetes-crd-example)** - Example application demonstrating the use of Kubernetes Custom Resource Definitions (today)
 
 #### 📄 Latest blog posts
 - [Public Salary History](https://tomwithers.dev/posts/public-salary-history/) (4 years ago)
