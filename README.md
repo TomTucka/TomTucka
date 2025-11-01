@@ -16,10 +16,10 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### ⭐ Recent Stars
 
 
-- **[poscat0x04/wgcf-teams](https://github.com/poscat0x04/wgcf-teams)** (3 days ago)
-- **[meiji163/gh-notify](https://github.com/meiji163/gh-notify)** - GitHub CLI extension to display GitHub notifications (1 week ago)
-- **[terraform-routeros/terraform-provider-routeros](https://github.com/terraform-routeros/terraform-provider-routeros)** - Terraform Provider for Mikrotik RouterOS (1 week ago)
-- **[posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV)** - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application (1 week ago)
+- **[poscat0x04/wgcf-teams](https://github.com/poscat0x04/wgcf-teams)** (4 days ago)
+- **[meiji163/gh-notify](https://github.com/meiji163/gh-notify)** - GitHub CLI extension to display GitHub notifications (2 weeks ago)
+- **[terraform-routeros/terraform-provider-routeros](https://github.com/terraform-routeros/terraform-provider-routeros)** - Terraform Provider for Mikrotik RouterOS (2 weeks ago)
+- **[posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV)** - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application (2 weeks ago)
 - **[ViRb3/wgcf](https://github.com/ViRb3/wgcf)** - 🚤 Cross-platform, unofficial CLI for Cloudflare Warp (2 weeks ago)
 
 #### 📄 Latest blog posts
