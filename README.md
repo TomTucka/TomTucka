@@ -16,11 +16,11 @@ I'm [Tom](https://tomwithers.dev), I write and operate software for a living and
 #### ⭐ Recent Stars
 
 
-- **[Integration-IT/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet)** - A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. (today)
-- **[square/certstrap](https://github.com/square/certstrap)** - Tools to bootstrap CAs, certificate requests, and signed certificates. (today)
-- **[FreeTAKTeam/openTAKpickList](https://github.com/FreeTAKTeam/openTAKpickList)** - a list of hardware and software to be used in conjunction with ATAK platform (today)
-- **[AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes)** - A Kubernetes Query Language (today)
-- **[martin-helmich/kubernetes-crd-example](https://github.com/martin-helmich/kubernetes-crd-example)** - Example application demonstrating the use of Kubernetes Custom Resource Definitions (today)
+- **[Integration-IT/Active-Directory-Exploitation-Cheat-Sheet](https://github.com/Integration-IT/Active-Directory-Exploitation-Cheat-Sheet)** - A cheat sheet that contains common enumeration and attack methods for Windows Active Directory. (1 day ago)
+- **[square/certstrap](https://github.com/square/certstrap)** - Tools to bootstrap CAs, certificate requests, and signed certificates. (1 day ago)
+- **[FreeTAKTeam/openTAKpickList](https://github.com/FreeTAKTeam/openTAKpickList)** - a list of hardware and software to be used in conjunction with ATAK platform (1 day ago)
+- **[AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes)** - A Kubernetes Query Language (1 day ago)
+- **[martin-helmich/kubernetes-crd-example](https://github.com/martin-helmich/kubernetes-crd-example)** - Example application demonstrating the use of Kubernetes Custom Resource Definitions (1 day ago)
 
 #### 📄 Latest blog posts
 - [Public Salary History](https://tomwithers.dev/posts/public-salary-history/) (4 years ago)
